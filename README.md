@@ -11,11 +11,11 @@ bring their interactive ideas to life. If you're into these techs too, let's exp
 
 ## 🌱 My Skills
 
-![HTML5](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-2d516b?style=for-the-badge&logo=mysql&logoColor=white)
-![Adobe](https://img.shields.io/badge/GraphicDesigner-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-00A6E4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-0073E6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-005D99?style=for-the-badge&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003366?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe](https://img.shields.io/badge/GraphicDesign-0073E6?style=for-the-badge&logo=adobe&logoColor=white)
 
 Feel free to check out my projects to see these skills in action!
 
@@ -28,7 +28,11 @@ Feel free to reach out to me through any of these channels:
 
 I'm always up for a chat or to collaborate on cool projects.
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrecantuaria&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrecantuaria&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 
 
 <!--
