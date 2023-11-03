@@ -1,6 +1,6 @@
 ![](./assets/img-header-hello-world.png)
 
-## About me
+## 👍About me
 
 Hello, world! I'm Andre Cantuaria, a software developer student at MITT (Manitoba Institute of 
 Trades and Technology), currently based in Winnipeg, Canada.
