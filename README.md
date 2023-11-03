@@ -9,6 +9,19 @@ I'm enthusiastic about coding, always embracing the creative and visual aspects 
 I enjoy creating awesome websites using CSS, HTML, and JavaScript and relish helping others
 bring their interactive ideas to life. If you're into these techs too, let's explore them together!
 
+## My Skills
+
+I’m currently learning:
+
+![HTML](https://img.shields.io/badge/HTML-Web-00ced1)
+![CSS](https://img.shields.io/badge/CSS-Web-00ced1)
+![JavaScript](https://img.shields.io/badge/JavaScript-Code-00ced1)
+![MySQL](https://img.shields.io/badge/MySQL-DB-00ced1)
+
+Feel free to check out my projects to see these skills in action!
+
+##
+
 <!--
 **andrecantuaria/andrecantuaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
