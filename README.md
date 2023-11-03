@@ -13,19 +13,20 @@ bring their interactive ideas to life. If you're into these techs too, let's exp
 
 I’m currently learning:
 
-![HTML](https://img.shields.io/badge/HTML-Web-00ced1)
-![CSS](https://img.shields.io/badge/CSS-Web-00ced1)
-![JavaScript](https://img.shields.io/badge/JavaScript-Code-00ced1)
-![MySQL](https://img.shields.io/badge/MySQL-DB-00ced1)
+![HTML5](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-2d516b?style=for-the-badge&logo=mysql&logoColor=white)
 
 Feel free to check out my projects to see these skills in action!
 
 ## 💬 Say Hello!
 Feel free to reach out to me through any of these channels:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/andrecantuaria)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://www.instagram.com/andre.cantuaria)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:andrecantuaria@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=transparent)](https://www.linkedin.com/in/andrecantuaria)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram&logoColor=transparent)](https://www.instagram.com/andre.cantuaria)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoWidth=32)](mailto:andrecantuaria@gmail.com)
+
 
 
 I'm always up for a chat or to collaborate on cool projects.
