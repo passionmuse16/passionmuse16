@@ -9,7 +9,7 @@ I'm enthusiastic about coding, always embracing the creative and visual aspects 
 I enjoy creating awesome websites using CSS, HTML, and JavaScript and relish helping others
 bring their interactive ideas to life. If you're into these techs too, let's explore them together!
 
-## My Skills
+## 🌱 My Skills
 
 I’m currently learning:
 
@@ -20,7 +20,15 @@ I’m currently learning:
 
 Feel free to check out my projects to see these skills in action!
 
-##
+## 💬 Say Hello!
+Feel free to reach out to me through any of these channels:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/andrecantuaria)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://www.instagram.com/andre.cantuaria)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:andrecantuaria@gmail.com)
+
+
+I'm always up for a chat or to collaborate on cool projects.
 
 <!--
 **andrecantuaria/andrecantuaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
