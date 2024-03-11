@@ -1,4 +1,4 @@
-![](./assets/img-header-hello-world.png)
+![mycover-hello-world](https://github.com/andrecantuaria/andrecantuaria/assets/146020004/5dd3852c-69f5-47ad-87b0-3b28f5396cc5)
 
 ## 👍About me
 
