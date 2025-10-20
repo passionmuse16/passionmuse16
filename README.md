@@ -1,6 +1,6 @@
 ## 👍 About Me
 
-Highly skilled Software Developer with a strong background in developing complex web applications using modern technologies such as React, Node.js, and SQL. Over the past 9 years, dedicated to staying current with emerging trends and technologies to drive innovation and continuously improve development processes.
+Highly skilled Software Developer with a strong background in developing complex Web & AI applications using modern technologies such as TypeScript, JavaScript (ES6+), React, Node.js and cloud-native architectures (AWS, Docker, Kafka). Over the past 9 years, dedicated to staying current with emerging trends and technologies to drive innovation and continuously improve development processes.
 Proficient in both front-end and back-end development and passionate about creating responsive, user-friendly designs that meet business needs. Excellent communication skills and ability to collaborate with cross-functional teams to deliver high-quality results.
 
 Feel free to check out my projects to see in action!
